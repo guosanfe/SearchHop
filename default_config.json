@@ -1,0 +1,40 @@
+{
+  "sites": [
+    {
+      "name": "Bilibili",
+      "url_template": "https://search.bilibili.com/all?keyword={query}"
+    },
+    {
+      "name": "知乎",
+      "url_template": "https://www.zhihu.com/search?type=content&q={query}"
+    },
+    {
+      "name": "微博",
+      "url_template": "https://s.weibo.com/weibo?q={query}"
+    },
+    {
+      "name": "百度",
+      "url_template": "https://www.baidu.com/s?wd={query}"
+    },
+    {
+      "name": "小红书",
+      "url_template": "https://www.xiaohongshu.com/search_result?keyword={query}&source=web_explore_feed"
+    },
+    {
+      "name": "抖音",
+      "url_template": "https://www.douyin.com/search/{query}"
+    },
+    {
+      "name": "淘宝",
+      "url_template": "https://s.taobao.com/search?q={query}"
+    },
+    {
+      "name": "京东",
+      "url_template": "https://search.jd.com/Search?keyword={query}&enc=utf8"
+    },
+    {
+      "name": "拼多多",
+      "url_template": "https://mobile.yangkeduo.com/search_result.html?search_key={query}"
+    }
+  ]
+}
