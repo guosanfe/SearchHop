@@ -1,0 +1,32 @@
+name: searchhop
+description: "搜跳 SearchHop 移动端 —— App 直达搜索，网页兜底。"
+publish_to: 'none'
+
+version: 1.1.0+2
+
+environment:
+  sdk: ^3.14.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.11.0
+  url_launcher: ^6.3.3
+  shared_preferences: ^2.5.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  url_launcher_platform_interface: ^2.3.2
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/searchhop.png"
+  adaptive_icon_background: "#FF167653"
+  adaptive_icon_foreground: "assets/icon/searchhop.png"

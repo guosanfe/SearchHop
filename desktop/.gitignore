@@ -1,0 +1,28 @@
+# 依赖
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 环境变量/密钥
+.env
+.env.local
+*.key
+*.pem
+
+# 构建产物
+dist/
+build/
+out/
+target/
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+logs/

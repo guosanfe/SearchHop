@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_hint_fake">搜索关键词…</string>
+    <string name="widget_small_label">搜跳</string>
+    <string name="widget_large_title">搜跳 · 快速搜索</string>
+    <string name="widget_large_btn">搜索</string>
+    <string name="widget_large_sub">点击直达 App 搜索 · 未安装自动网页版</string>
+    <string name="widget_name_small">搜跳快速搜索 2x1</string>
+    <string name="widget_name_medium">搜跳快速搜索 4x1</string>
+    <string name="widget_name_large">搜跳快速搜索 4x2</string>
+    <string name="widget_description">点击输入关键词，直达 App 搜索，未安装时自动打开网页版</string>
+    <string name="widget_description_small">紧凑尺寸，点击打开快速搜索</string>
+    <string name="widget_description_large">大尺寸搜索栏样式，点击打开快速搜索</string>
+</resources>
