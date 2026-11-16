@@ -8,11 +8,24 @@
 
 它不是浏览器、不是爬虫、不是内容聚合器：只负责打开正确的 URL，搜完即走。
 
+## 下载
+
+前往 [Releases](https://github.com/guosanfe/SearchHop/releases/latest) 下载安装包：
+
+- **Windows**：`SearchHop.exe`，单文件双击即用
+- **Android**：`app-arm64-v8a-release.apk`（主流机型）／`app-armeabi-v7a-release.apk`（较老机型），均为正式签名
+
+⚠️ 装过旧 debug 测试版的手机请先卸载再安装：签名不同，无法覆盖升级。
+
 ## 界面预览
 
 ![桌面端](docs/screenshots/desktop.png)
 
 <img src="docs/screenshots/mobile.png" width="280" alt="移动端" />
+
+移动端实机演示：选站点 → 输入关键词 → 直达 App 搜索结果页。
+
+<img src="docs/demo/mobile.gif" width="280" alt="移动端演示" />
 
 ## 功能
 
@@ -59,6 +72,7 @@ searchhop/
   desktop/          # Windows 桌面端：Python 3.11 + CustomTkinter
   mobile/           # Android / iOS：Flutter
   docs/screenshots/ # 界面截图
+  docs/demo/        # 实机演示 GIF
   LICENSE           # MIT
 ```
 
