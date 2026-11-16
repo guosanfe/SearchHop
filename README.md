@@ -12,11 +12,7 @@
 
 ![桌面端](docs/screenshots/desktop.png)
 
-<!-- 移动端截图放入 docs/screenshots/ 后取消注释：
-![移动端](docs/screenshots/mobile.png)
--->
-
-_移动端截图待补（`docs/screenshots/mobile.png`）。_
+<img src="docs/screenshots/mobile.png" width="280" alt="移动端" />
 
 ## 功能
 
