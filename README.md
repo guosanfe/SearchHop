@@ -10,12 +10,13 @@
 
 ## 界面预览
 
-<!-- 截图放入 docs/screenshots/ 后取消下面两行注释：
 ![桌面端](docs/screenshots/desktop.png)
+
+<!-- 移动端截图放入 docs/screenshots/ 后取消注释：
 ![移动端](docs/screenshots/mobile.png)
 -->
 
-_截图即将补充（`docs/screenshots/desktop.png`、`docs/screenshots/mobile.png`）。_
+_移动端截图待补（`docs/screenshots/mobile.png`）。_
 
 ## 功能
 
